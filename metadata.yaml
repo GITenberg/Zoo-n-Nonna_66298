@@ -1,0 +1,22 @@
+_repo: Zoo-n-Nonna_66298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fokker, Abraham Anthony
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '24924'
+    url: http://www.gutenberg.org/2009/agents/24924
+    wikipedia: http://www.gutenberg.org/ebooks/author/52704
+description: ''
+gutenberg_issued: '2021-09-14'
+identifiers:
+  gutenberg: '66298'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zoo'n Nonna
+url: http://www.gutenberg.org/ebooks/66298
